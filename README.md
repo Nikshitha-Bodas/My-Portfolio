@@ -11,7 +11,7 @@ It is designed using **HTML, CSS, and JavaScript** with a focus on responsivenes
 ---
 
 ## 🚀 Live Demo
-🔗 
+🔗 https://nikshitha-bodas.github.io/My-Portfolio/
    https://majestic-stroopwafel-040cb7.netlify.app/
 
 ---
@@ -32,4 +32,13 @@ The main goal of this project is to:
 
 ---
 
+#This portfolio is submitted for internship evaluation at Kodbud Solutions.
 
+@kodbudsolutions
+@Kodbud
+@kodbud
+@KodBud
+@Kodbud Solutions
+@KodbudSolutions
+@Kodbudsolutions
+@kodbudsolutions
